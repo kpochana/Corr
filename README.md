@@ -1,2 +1,2 @@
-# corr
-corr
+# Corr: High Speed RC Car Platform
+
